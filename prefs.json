@@ -1,0 +1,7 @@
+{
+  "jdbcUrl": "jdbc:h2:file:./src/main/resources/db/H2/H2",
+  "jdbcTestUrl": "jdbc:h2:file:./src/main/resources/db/H2Test/H2",
+  "jdbcUsername": "Yevhenii",
+  "jdbcPassword": "",
+  "initDbSql": "./src/main/resources/sqlQueries"
+}
